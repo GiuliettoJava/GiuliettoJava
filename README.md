@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Giulio.
+# Hey, I'm Giulio👋
 
 ### Computer Engineering student who likes building things.
 
