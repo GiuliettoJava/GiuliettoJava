@@ -1,10 +1,10 @@
 <div align="center">
 
-# Giulio Pisano
+# Hey, I'm Giulio.
 
-### Computer Engineering Student
+### Computer Engineering student who likes building things.
 
-**Artificial Intelligence · Software · Systems**
+**AI · Software · Systems**
 
 <br>
 
